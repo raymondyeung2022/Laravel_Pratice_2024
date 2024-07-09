@@ -62,13 +62,13 @@ URI:
 問題17: /question17
 問題18: /question18
 問題19: /question19
-問題20:  /question20
-問題21:  /question21
-問題22:  /question22
-問題23:  /question23
-問題24:  /question24
-問題25:  /question25
-問題26:  /question26
+問題20: /question20
+問題21: /question21
+問題22: /question22
+問題23: /question23
+問題24: /question24
+問題25: /question25
+問題26: /question26
 ```
 
 **注意: 問題ページにアクセスする時、「Page Not Found」が表示されてしまいましたら、```php artisan optimize```を実行してから再度アクセスしてみてください**
