@@ -30,7 +30,7 @@ https://docs.google.com/spreadsheets/d/1Qfl5rbKn6lknWcaquT2lWzBd0TSj86yxr-JyF9AD
 7. ```php artisan key:generate```を実行します。
 8. ```php artisan serve```を実行します。コンソールで現れたURLにアクセス出来れば、ページが現れるはずです。
 
-**注意: 以下のSeederクラスは、17問目に合わせるため、コメントアウトしています。必ず17問目を回答してから導入してください:**
+**注意: 以下のSeederクラスは、17問目に合わせるため、コメントアウトしています。必ず17問目を回答してから、コメントアウトを外して導入してください:**
 ```CategorySeeder::class,
 TagSeeder::class,
 CustomerSeeder::class,
