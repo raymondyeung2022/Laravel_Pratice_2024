@@ -1,4 +1,4 @@
-# Laravel_pratice_2024
+# Laravel_Pratice_2024
 株式会社ドリームキャリア新卒向きLaravel練習用問題集
 
 原リポジトリ: https://github.com/Rio-Yamazakii/Laravel_practice_2024_SP
