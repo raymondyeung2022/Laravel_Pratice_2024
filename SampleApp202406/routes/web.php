@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\CustomerController;
 use App\Http\Controllers\StaffListController;
 use Illuminate\Support\Facades\Route;
 
@@ -94,3 +95,7 @@ Route::get('/question26', [StaffListController::class, 'question26']);
 
 // 問題28
 Route::get('/question27', [StaffListController::class, 'question27']);
+
+// 問題28
+Route::get('/question28', [CustomerController::class, 'question28']);
+Route::post('/question28-output-csv', [CustomerController::class, 'question28_outputCSV']);

@@ -73,6 +73,7 @@ $heads = [
     <div class="row">
         <div class="col-1"><a href="/question26" class="btn btn-info" role="button">問題26</a></div>
         <div class="col-1"><a href="/question27" class="btn btn-info" role="button">問題27</a></div>
+        <div class="col-1"><a href="/question28" class="btn btn-info" role="button">問題28</a></div>
     </div>
 
     <br/>
