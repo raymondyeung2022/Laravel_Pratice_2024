@@ -69,6 +69,8 @@ URI:
 問題24: /question24
 問題25: /question25
 問題26: /question26
+問題27: /question27
+問題28: /question28
 ```
 
 **注意: 問題ページにアクセスする時、「Page Not Found」が表示されてしまいましたら、```php artisan optimize```を実行してから再度アクセスしてみてください**
